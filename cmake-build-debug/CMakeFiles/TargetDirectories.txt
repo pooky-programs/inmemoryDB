@@ -1,0 +1,3 @@
+C:/Users/finas/work/courses/Spring 2024/CIS4930/Assignments/EC-DataProcessing/cmake-build-debug/CMakeFiles/EC_DataProcessing.dir
+C:/Users/finas/work/courses/Spring 2024/CIS4930/Assignments/EC-DataProcessing/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/finas/work/courses/Spring 2024/CIS4930/Assignments/EC-DataProcessing/cmake-build-debug/CMakeFiles/rebuild_cache.dir

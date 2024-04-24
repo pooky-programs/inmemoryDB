@@ -1,0 +1,1 @@
+Please use the provided CMakeLists.txt to compile the code. The program uses the optional module which requires the use of c++17.
